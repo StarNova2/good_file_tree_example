@@ -4,7 +4,7 @@
 src/
 ├ app/
 ├ components/
-├ drizzle/
+├ misc/
 ├ features/
 │ ├ feature1/
 │ └ feature2/
